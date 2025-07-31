@@ -1,0 +1,14 @@
+task-manager/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── server.js
+│   └── .env
+└── frontend/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── App.js
+    │   ├── index.js
+    │   └── ...
